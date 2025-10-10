@@ -5,6 +5,8 @@ A portable Sega Megadrive cartridge burning tool that allows you to back up/rest
 
 The folder contains the source code for the md_rewriter chip program. After compilation, you can download the firmware from the release section.
 
+[Release 1.0](https://github.com/Epicjoy/md_rewriter/releases/download/1.0/md-rewriter-firmware-1.0.hex)
+
 **Hardware:**
 
 The BOM and PCB files have been updated in the folder. You can create the PCB according to your needs.
