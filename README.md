@@ -13,6 +13,10 @@ The BOM and PCB files have been updated in the folder. You can create the PCB ac
 
 The source code for the English version of the upper computer software has been updated. It currently only runs on the Windows 10 platform and is not compatible with macOS/Linux. Please download the latest version of the software from the release section.
 
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; justify-content: center;">
+  <a href="#"><img style="width: auto; height: auto;" alt="1" src="https://github.com/Epicjoy/md_rewriter/blob/e9a7867387858533a65eab46d8310d473e044b57/Software/wechat_2025-10-10_115020_388.png" /></a>
+</div>
+
 # Features
 - No region restrictions, compatible with US, Japanese, and European cartridges
 - Supports backing up MD cartridge games to PC or writing games to third-party rewritable cartridges
