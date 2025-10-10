@@ -16,7 +16,7 @@ The BOM and PCB files have been updated in the folder. You can create the PCB ac
 The source code for the English version of the upper computer software has been updated. It currently only runs on the Windows 10 platform and is not compatible with macOS/Linux. Please download the latest version of the software from the release section.
 
 <div style="display: flex; gap: 10px; flex-wrap: nowrap; justify-content: center;">
-  <a href="#"><img style="width: auto; height: auto;" alt="1" src="https://github.com/Epicjoy/md_rewriter/blob/e9a7867387858533a65eab46d8310d473e044b57/Software/wechat_2025-10-10_115020_388.png" /></a>
+  <a href="#"><img style="width: auto; height: auto;" alt="1" src="https://github.com/Epicjoy/md_rewriter/blob/30ab4f1cde74a1f1161e3e3dec5feb0bc90516f9/Software/wechat_2025-10-10_115020_388.png" /></a>
 </div>
 
 **Epicjoy Official AliExpress:**
